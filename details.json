@@ -1,0 +1,13 @@
+{
+"name": "John Ric C. Merque",
+"address": "Konoha Village, Fire Nation",
+"age": "19",
+"sex": "Male",
+"contactNumber": "09183546327",
+"emailAddress": "johnsonsbabypowder@gmail.com",
+"Facebook": "John Ric Merque",
+"education": "BS Computer Engineering",
+"university": "Polytechnic University of the Philippines",
+"computer": ["Python Programming","Software Testing and Debugging","Object-Oriented Design"],
+"nonTechnical": ["Logical Thinking","Written and Verbal Communication"]
+}
